@@ -16,5 +16,12 @@ public class ucgenAlanHesaplama {
         c=Math.sqrt((a*a)+(b*b));
         System.out.println("Hipotenüs = " + c);
 
+        double cevre = (a+b+c);
+        double u = cevre / 2;
+        double alan = Math.sqrt(u*(u-a)*(u-b)*(u-c));
+
+        System.out.println("Üçgenin Cevresi : " + cevre);
+        System.out.println("Üçgenin Alanı : " + alan);
+
     }
 }
