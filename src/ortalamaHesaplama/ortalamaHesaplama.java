@@ -1,5 +1,6 @@
 package ortalamaHesaplama;
 import java.util.Scanner;
+
 public class ortalamaHesaplama {
     public  static void main(String[] args) {
         int mat, fizik, kimya, tarih, muzik, turkce;
