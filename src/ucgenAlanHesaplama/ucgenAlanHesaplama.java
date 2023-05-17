@@ -1,6 +1,6 @@
 package ucgenAlanHesaplama;
 import java.util.Scanner;
-public class UcgenAlanHesaplama {
+public class ucgenAlanHesaplama {
     public static void main(String[] args) {
         int a, b;
         double c;

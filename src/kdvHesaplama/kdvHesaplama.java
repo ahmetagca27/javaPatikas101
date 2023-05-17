@@ -6,7 +6,7 @@ public class kdvHesaplama {
         double fiyat, kdv = 0.18;
 
         Scanner inp = new Scanner(System.in);
-        System.out.print("Lütfen Kdv hesaplanacak Tutarı giriniz.: ");
+        System.out.print("Lütfen Kdv hesaplanacak Tutarı giriniz : ");
         fiyat = inp.nextDouble();
 
         double kdvTutari= kdv * fiyat;
