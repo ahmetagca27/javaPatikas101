@@ -1,5 +1,6 @@
 package artikYilHesaplama;
 import java.util.Scanner;
+
 public class artikYilHesaplama {
     public static void main(String[] args) {
         int year ;
