@@ -2,12 +2,12 @@ package ucakBiletiHesaplama;
 import java.util.Scanner;
 public class ucakBiletiHesaplama {
     public static void main(String[] args) {
-        Scanner inp = new Scanner(System.in);
-
         double km, costPerKm = 0.1 , total;
         byte type;
         int age;
         boolean isError = false;
+
+        Scanner inp = new Scanner(System.in);
 
         System.out.printf("Lütfen Gidilecek Mesafeyi KM olarak girin : ");
         km = inp.nextDouble();
