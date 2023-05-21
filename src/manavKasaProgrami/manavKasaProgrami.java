@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class manavKasaProgrami {
     public static void main(String[] args) {
         int armut,elma,domates,muz,patlican;
-
         double arm =2.14, elm =3.67, dom = 1.11, mz = 0.95, pat = 5.0, total;
 
         Scanner input = new Scanner(System.in);
