@@ -1,7 +1,6 @@
 package ciftSayiToplami;
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-import java.sql.SQLOutput;
 import java.util.Scanner;
+
 public class ciftSayiToplami {
     public static void main(String[] args) {
         int k;
