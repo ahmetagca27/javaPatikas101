@@ -5,9 +5,7 @@ public class combinationCalculation {
         int n,r,ntotal=1,rtotal=1,nrtotal=1,result=1;
 
         Scanner input= new Scanner(System.in);
-        System.out.print("Bu uygulama birinci sayının\n" +
-                "ikinci sayıya kombinasyonunu yapar\n" +
-                "birinci sayıyı giriniz: ");
+        System.out.print("Birinci sayıyı giriniz: ");
         n=input.nextInt();
         System.out.print("ikinci sayıyı giriniz: ");
         r=input.nextInt();
