@@ -1,4 +1,4 @@
-package hesapMakinesiProgrami;
+package harmonicNumbers;
 import java.util.Scanner;
 public class harmonicNumbers {
     public static void main(String[] args) {
