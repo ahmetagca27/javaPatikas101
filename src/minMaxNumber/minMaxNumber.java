@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class minMaxNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Kaç tane sayı gireceksiniz? ");
         int sayiAdedi = scanner.nextInt();
 
