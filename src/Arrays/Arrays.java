@@ -20,7 +20,13 @@ public class Arrays {
         int [] newList = reverse(list);
 
         printArray(newList);
+        System.out.println("");
 
+        //* Tek Boyutlu Dizi
+        String[] days = {"Pazaretesi", "Salı", "Çarşamba", "Perşembe", "Cuma" };
+        for(int i = 0; i < (days.length); i++){
+            System.out.println(days[i]);
+        }
     }
 
 }
